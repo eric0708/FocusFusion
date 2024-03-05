@@ -51,6 +51,18 @@ Use the trained model for inference using the `inference_diffusion_model.py` scr
 python inference_diffusion_model.py
 ```
 
+## Model Architecture
+
+A figure of the diffusion forward process and the diffusion model archtecture is shown below.
+
+[Diffusion Model Architecture](./imgs/diffusion_model.png)
+
+## Generated Samples 
+
+Sample images generated from training the diffusion model on the Oxford Flowers dataset are shown in the following figure.
+
+[Generated Samples](./imgs/sample_images.png)
+
 ## Contributing
 
 Contributions to this project are welcome! If you'd like to contribute, please follow these guidelines:
