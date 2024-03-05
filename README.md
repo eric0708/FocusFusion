@@ -8,16 +8,16 @@ Welcome to the FocusFusion repository! This repository contains the codebase for
 
 FocusFusion/  
 │  
-├── data/  
+│── data/  
 │ └── Flowers102  
 │ └── Pokemon  
 │  
-├── README.md  
-├── dataset.py  
-├── diffusion_model.py  
-├── inference_diffusion_model.py  
-├── train_diffusion_model.py  
-└── utils.py  
+│── README.md  
+│── dataset.py  
+│── diffusion_model.py  
+│── inference_diffusion_model.py  
+│── train_diffusion_model.py  
+│── utils.py  
 
 ## Description
 
